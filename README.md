@@ -1,5 +1,3 @@
-# HF_Qwen_Double_Quantization
-Qwen2-7B-Instruct double quantized model
 # HF QWEN Double Quantization Notebook
 
 This notebook demonstrates how to apply **double quantization** to the Qwen 2-7B Instruct model using Hugging Face Transformers and BitsAndBytes. Double quantization reduces model size and accelerates inference by quantizing weights to 4-bit precision with additional optimization.
